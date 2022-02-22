@@ -4,6 +4,8 @@
 
 ![Complex Selectors Assignment](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/complex-selectors/assignment-1.png)
 
+<!-- .... -->
+
 #### Small Screen view(Below 768px)
 
 Figure out the best possible view for the small screens.
